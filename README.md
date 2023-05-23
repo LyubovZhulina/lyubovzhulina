@@ -1,8 +1,8 @@
-Hi there, I'm Lyubov Zhulina
+Hi there, I'm Lyubov Zhulina 👋
 
 About me:
 
-# I'm beginner Data Analyst 👋
+# I'm beginner Data Analyst 
 
 Languages and Tools:
 
