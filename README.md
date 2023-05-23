@@ -2,7 +2,7 @@ Hi there, I'm Lyubov Zhulina
 
 About me:
 
-# I'm begineer Data Analyst 👋
+# I'm beginner Data Analyst 👋
 
 Languages and Tools:
 
